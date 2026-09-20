@@ -16,7 +16,7 @@
   <a href="https://github.com/manashwi143">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/manoj-sawale-72295712a/)">
+  <a href="[[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/manoj-sawale-72295712a/)](https://www.linkedin.com/in/manoj-sawale-72295712a/?skipRedirect=true)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
